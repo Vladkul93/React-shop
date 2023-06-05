@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Vladkul93/React-shop.git/static/css/main.cdac0bce.css",
+    "main.js": "/Vladkul93/React-shop.git/static/js/main.a43782a7.js",
+    "static/media/bg.jpg": "/Vladkul93/React-shop.git/static/media/bg.848945fdadfd19db994a.jpg",
+    "index.html": "/Vladkul93/React-shop.git/index.html",
+    "main.cdac0bce.css.map": "/Vladkul93/React-shop.git/static/css/main.cdac0bce.css.map",
+    "main.a43782a7.js.map": "/Vladkul93/React-shop.git/static/js/main.a43782a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdac0bce.css",
+    "static/js/main.a43782a7.js"
+  ]
+}
